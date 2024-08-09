@@ -12,7 +12,7 @@ Classe de Equivalência: Um ótimo aprendizado para economia de tempo, agrupando
 
 Caso de teste: Este descreve o processo real de como um recurso está funcionando conforme esperado, ele se parece muito com os relatórios de bugs, mas a diferença é que o caso de teste ajuda o testador a encontrar bugs enquanto os relatórios apenas registram eles.
 
-## Sprint 2 - Design de Teste
+### Sprint 2 - Design de Teste
 - Análise de requisitos
 - Design de teste
 - Documentação de teste
